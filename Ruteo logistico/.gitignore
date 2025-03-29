@@ -1,9 +1,0 @@
-# Ignorar archivos temporales de Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Ignorar archivos de entorno
-.env
-venv/
